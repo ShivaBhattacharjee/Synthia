@@ -1,0 +1,13 @@
+make main = func () {
+    make x = 10;
+    make y = 5;
+    make z = 9.1
+    if (x > y) {
+        out(" x is greater than y!");
+        out(z);
+    } else {
+        out(" x is not greater than y!");
+    }
+};
+
+main();

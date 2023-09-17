@@ -1,0 +1,5 @@
+make person = {
+    "name" : "Nipu",
+    "idk" : "Insaan h lekin billi wali harkate krta h",
+};
+out(person's name ,person's  idk)

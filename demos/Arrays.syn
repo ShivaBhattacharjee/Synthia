@@ -1,0 +1,2 @@
+make Synthia = ["Faster","Simpler","OpenSource"];
+out(Synthia)

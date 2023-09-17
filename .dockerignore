@@ -1,0 +1,7 @@
+README.MD
+./demos
+./.cargo
+./.vscode
+./target
+.gitignore
+synthiadocs.pdf

@@ -1,0 +1,7 @@
+make sum = func (a , b) {
+    make sum = a + b;
+    out("the sum is" ,sum);
+};
+
+sum( "1" , "2");
+sum( 9 , 10);
