@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ShivaBhattacharjee/Muxik">
-    <img src="https://github.com/ShivaBhattacharjee/synthia/blob/main/assets/Synthia%20-%20Logo.png" alt="Logo" width="100px" >
+    <img src="./assets//synthia.png" alt="Logo" width="100px" >
   </a>
 <br/>
   <h3 align="center">Synthia</h3>
@@ -30,7 +30,6 @@
     - [Making a variable](#make-a-variable)
     - [Functions](#defining-func)
     - [Arrays](#arrays)
-- [Backend](#backend)
 - [Contributing](#contributing)
 - [Issue Template](#raising-an-issue)
 - [License](#license)
@@ -50,7 +49,7 @@ Synthia is built on top of Rust
 
 <a href="https://git-scm.com/downloads" >Git</a> is a distributed version control system used for software development. It allows multiple developers to work on the same codebase simultaneously, keeping track of changes and managing versions. It also enables users to revert changes and collaborate more effectively.
 
-<a href="https://nodejs.org/en/download/">Rust</a>is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency. It enforces memory safety ensuring that all references point to valid memory without requiring the use of a garbage collector or reference counting present in other memory-safe languages. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation. Rust borrows ideas from functional programming, including immutability, higher-order functions, and algebraic data types. It is popular for systems programming
+<a href="https://nodejs.org/en/download/">Rust</a> is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency. It enforces memory safety ensuring that all references point to valid memory without requiring the use of a garbage collector or reference counting present in other memory-safe languages. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation. Rust borrows ideas from functional programming, including immutability, higher-order functions, and algebraic data types. It is popular for systems programming
 
 ### Installation
 
@@ -96,7 +95,7 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under GNU GENERAL PUBLIC LICENSE . See [LICENSE](https://github.com/ShivaBhattacharjee/synthia/blob/main/LICENSE) for more information.
+Distributed under Apache License . See [LICENSE](https://github.com/ShivaBhattacharjee/synthia/blob/main/LICENSE) for more information.
 
 ## Authors
 
