@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ShivaBhattacharjee/Synthia">
-    <img src="./assets/synthia.png" alt="Logo" width="100px" >
+    <img src="./assets/synthia.png" alt="Logo" width="150px" >
   </a>
 <br/>
   <h3 align="center">Synthia</h3>
@@ -30,12 +30,15 @@
     - [Making a variable](#make-a-variable)
     - [Functions](#defining-func)
     - [Arrays](#arrays)
+- [Demos](#demos)
 - [Contributing](#contributing)
 - [Issue Template](#raising-an-issue)
 - [License](#license)
 - [Authors](#authors)
 
 ## About The Project
+
+<img src="./assets/Synthia-Banner.png">
 
 ## Built With
 
