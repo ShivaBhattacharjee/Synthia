@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ShivaBhattacharjee/Muxik">
-    <img src="./assets//synthia.png" alt="Logo" width="100px" >
+  <a href="https://github.com/ShivaBhattacharjee/Synthia">
+    <img src="./assets/synthia.png" alt="Logo" width="100px" >
   </a>
 <br/>
   <h3 align="center">Synthia</h3>
