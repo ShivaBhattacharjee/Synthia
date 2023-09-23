@@ -55,7 +55,11 @@ Synthia is built on top of Rust
 ### Installation
 
 ```sh
-git clone https://github.com/ShivaBhattacharjee/Muxik.git
+git clone https://github.com/ShivaBhattacharjee/Synthia
+```
+
+```sh
+cd Synthia
 ```
 
 To run the compiler in terminal
