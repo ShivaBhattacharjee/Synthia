@@ -106,3 +106,4 @@ Distributed under Apache License . See [LICENSE](https://github.com/ShivaBhattac
 - **Vinayak Bharadwaz** - [Vinayak Bharadwaz](https://github.com/VinayakBharadwaz)
 - **Nipu Das** - [Nipu Das](https://github.com/nipudas29)
 - **Niharika Bordoloi** - [Niharika Bordoloi](https://github.com/nihharika)
+- **Shayan Chakraborty** - [Shayan Chakraborty](https://github.com/Lostshayan)
