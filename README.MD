@@ -98,7 +98,7 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under Apache License . See [LICENSE](https://github.com/ShivaBhattacharjee/synthia/blob/main/LICENSE) for more information.
+Distributed under Apache License . See [LICENSE](https://github.com/ShivaBhattacharjee/synthia/blob/main/LICENSE) for more information
 
 ## Authors
 
