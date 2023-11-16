@@ -29,6 +29,9 @@
   - [Docker](#docker)
   - [Local](#local)
 - [Syntax](#syntax)
+  - [How to execute Synthia](#how-to-execute-synthia)
+    - [Executing through IDE and file system](#executing-through-ide-and-file-system)
+    - [Alternatively You can execute code in repl by](#alternatively-you-can-execute-code-in-repl-by)
   - [Hello world](#hello-world)
     - [1. `out` Function](#1-out-function)
     - [2. `bigPrint` Function](#2-bigprint-function)
@@ -128,6 +131,30 @@ cargo run
 ```
 
 ## Syntax
+
+### How to execute Synthia
+ #### Executing through IDE and file system
+1. Make a file with .syn extension
+```bash
+$ touch helloworld.syn
+```
+2. Write the following code 
+```bash
+out("Hello world from Synthia!!");
+``` 
+3. Type the following command from terminal
+
+```bash
+$ cargo run run helloworld.syn 
+```
+4. Output
+```bash
+ Hello world from Synthia!!
+```
+  #### Alternatively You can execute code in repl by
+  ```bas
+  cargo run
+  ```
 
   ### Hello world
 
