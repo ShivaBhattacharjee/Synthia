@@ -8,7 +8,7 @@
     A high level interpreted language built on top of rust
     <br/>
     <br/>
-    <a href="https://muxik.netlify.app/">Docker</a>
+    <a href="https://hub.docker.com/r/immashiva/synthia">Docker</a>
     .
     <a href="https://github.com/ShivaBhattacharjee/synthia/issues">Report Bug</a>
     .
