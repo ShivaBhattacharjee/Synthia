@@ -1,4 +1,4 @@
-make main = func () {
+
     make x = 10;
     make y = 5;
     make z = 9.1
@@ -8,6 +8,3 @@ make main = func () {
     } else {
         out(" x is not greater than y!");
     }
-};
-
-main();

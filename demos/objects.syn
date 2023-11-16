@@ -1,5 +1,5 @@
-make person = {
-    "name" : "Nipu",
-    "idk" : "Insaan h lekin billi wali harkate krta h",
+make testObj = {
+    "firstKey" : "Hello",
+    "secondKey" : "Word",
 };
-out(person's name ,person's  idk)
+out(testObj's firstKey ,testObj's  secondKey)
